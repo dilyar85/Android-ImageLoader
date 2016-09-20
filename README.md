@@ -73,6 +73,6 @@ It would also crop the image to iamgeview's size before downloading, which will 
 
 
 ## License
-Free for any commercial or personal usage! 
+Licensed under <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>
 
 
