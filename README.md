@@ -7,8 +7,8 @@ A lightweight library for developers to deal with image downloading, fast and si
   <img src="https://github.com/dilyar85/Android-ImageLoader/blob/master/screenshots/jfrog_logo.png" alt="View it from JFrog" width="50" height="50">
 </a>
 
-<a href="https://search.maven.org/#artifactdetails%7Ccom.github.dilyar85%7Cimageloader%7C0.1.1%7Caar>
-	<img src = "https://github.com/dilyar85/Android-ImageLoader/blob/master/screenshots/maven_logo.jpg" height="50">
+<a href="https://search.maven.org/#artifactdetails%7Ccom.github.dilyar85%7Cimageloader%7C0.1.1%7Caar">
+  <img src = "https://github.com/dilyar85/Android-ImageLoader/blob/master/screenshots/maven_logo.jpg" height="50">
 </a>
 
 
