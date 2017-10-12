@@ -1,11 +1,15 @@
 # Android ImageLoader
+A lightweight library for developers to deal with image downloading, fast and simple!
+- Fetching and displaying images with only one line of code   
+- Includes image size adjustment to display it properly    
+- Available on jCenter and Maven Central    
 <a href="https://bintray.com/dilyar85/Android/imageloader/0.1.1">
-  <img src="http://findicons.com/files/icons/820/simply_google/256/google_android_download.png" alt="Download" width="50" height="50">
+  <img src="https://github.com/dilyar85/Android-ImageLoader/blob/master/screenshots/jfrog_logo.png" alt="View it from JFrog" width="50" height="50">
 </a>
 
-
-
-A simple framework for loading online & local images in ImageView. Fast and simple.
+<a href="https://search.maven.org/#artifactdetails%7Ccom.github.dilyar85%7Cimageloader%7C0.1.1%7Caar>
+	<img src = "https://github.com/dilyar85/Android-ImageLoader/blob/master/screenshots/maven_logo.jpg" height="50">
+</a>
 
 
 ## Usage
@@ -67,7 +71,7 @@ Do not forget to declare permission in AndroidManifest.xml
 
 
 ## Additional Features
-This ImageLoader uses LruCache so it would not redownload the images that were recelently displayed. 
+This ImageLoader uses LruCache so it would not redownload the images that were recelently displayed.   
 It would also crop the image to iamgeview's size before downloading, which will defenately make user save their data and make loading images fast. 
 
 
