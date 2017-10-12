@@ -4,11 +4,11 @@ A lightweight library for developers to deal with image downloading, fast and si
 - Includes image size adjustment to display it properly    
 - Available on jCenter and Maven Central    
 <a href="https://bintray.com/dilyar85/Android/imageloader/0.1.1">
-  <img src="https://github.com/dilyar85/Android-ImageLoader/blob/master/screenshots/jfrog_logo.png" alt="View it from JFrog" width="50" height="50">
+  <img src="https://github.com/dilyar85/Android-ImageLoader/blob/master/screenshots/jfrog_logo.png" alt="View it from JFrog" width="50" height="50" hspace="50" align="left">
 </a>
-
+    
 <a href="https://search.maven.org/#artifactdetails%7Ccom.github.dilyar85%7Cimageloader%7C0.1.1%7Caar">
-  <img src = "https://github.com/dilyar85/Android-ImageLoader/blob/master/screenshots/maven_logo.jpg" height="50">
+  <img src = "https://github.com/dilyar85/Android-ImageLoader/blob/master/screenshots/maven_logo.jpg" height="50" hspace="50">
 </a>
 
 
